@@ -1,0 +1,4 @@
+watchdog
+python-dotenv
+zat
+pyod
